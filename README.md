@@ -1,4 +1,4 @@
-# Project Name
+# MERN BUS Application
 
 This project is developed by CODCrafters following Indian repo, initially bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Under the guidance of Usman Ghias, our team has created a robust and dynamic application designed to meet modern development standards and best practices.
 
